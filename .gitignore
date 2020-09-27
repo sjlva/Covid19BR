@@ -1,3 +1,5 @@
 get_ms_data.R
+get_google_data.R
+get_jhu_data.R
 commit.sh
 .Rhistory
