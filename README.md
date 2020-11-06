@@ -1,5 +1,9 @@
 # Covid19BR
- Dados do coronavírus em formatos mais acessíveis.
+ Dados do coronavírus em formatos mais acessíveis.  
+ 
+ **Repositório oficial para a disciplina de Ciência de Dados - UFMG**
+ 
+ > :warning: **Este repositório foi descontinuado**: O semestre terminou e a disciplina também. Os dados não serão mais atualizados.  
  
  ## Arquivos
  Este repositório conta com arquivos no formato .csv e .rds dos dados mais recentes sobre o Covid19 no Brasil e no mundo.  
@@ -20,6 +24,6 @@
    `readr::read_rds(url("https://github.com/sjlva/Covid19BR/blob/master/rds/covid_ms.rds?raw=true"))`
    
  ## Frequência de Atualização dos dados  
- Os dados são atualizados diariamente em qualquer horário entre as 17:00 e 00:00, variando de acordo com o consumo de RAM na máquina virtual e também de acordo com a atualização dos dados do Ministério da Saúde.
+ Os dados são atualizados diariamente em qualquer horário entre as 17:00 e 00:00, variando de acordo com a atualização dos dados do Ministério da Saúde.
  
  
